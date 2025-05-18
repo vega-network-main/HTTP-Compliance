@@ -13,7 +13,7 @@ HTTP Status Code: <span style="color:green">200</span>
 }
 ```
 
-HTTP Status Codes for:
+Global HTTP Status Codes for:
 - [100](00/100/README.md)
 - [200](00/200/README.md)
 - [300](00/300/README.md)
