@@ -5,7 +5,7 @@ Example:
 HTTP Status Code: <span style="color:green">200</span>
 ```json
 "error": {
-    "code": "002000",
+    "code": "200000",
     "attributes": {
         "attr1":  "attr1",
         "attr2":  "attr2",

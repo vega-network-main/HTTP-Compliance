@@ -1,7 +1,7 @@
 # HTTP-Compliance
 A wide HTTP status codebase for Vega Network projects as well as Vilbux projects.
 
-Status code must follow these rules: `XX200Y`: `XX` - Project ID, `200` - Status Code, `Y` - Variant of Status Code
+Status code must follow these rules: `XXXYYZ`: `XXX` - Status Code, `YY` -Project ID, `Z` - Variant of Status Code
 
 ## What for?
 Designed for inner connection beetwen muliple sub-systems that communicate over: gRPC, Kafka or frontend for better flexibility and cleaner codebase
