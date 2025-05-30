@@ -19,3 +19,5 @@ Global HTTP Status Codes for:
 - [300](00/300/README.md)
 - [400](00/400/README.md)
 - [500](00/500/README.md)
+
+Private projects
